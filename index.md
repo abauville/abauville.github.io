@@ -1,5 +1,3 @@
-# Arthur Bauville's portfolio
-
 ## Data science projects
 
 To come
