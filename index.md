@@ -1,8 +1,8 @@
-## Data science projects
+# Data science projects
 
 To come
 
-## Scientific software development
+# Scientific software development
 
 [Sunaba](https://github.com/abauville/Sunaba): 2D simulation of geodynamical thermomechanical processes. Written in C, Python and OpenGL.
 
@@ -10,11 +10,11 @@ To come
 
 [CriticalTaper-utils](https://github.com/abauville/CriticalTaper-utils): Python scripts to compute and visualize the solutions of the critical taper theory.
 
-## CV
+# CV
 
 [CV](./Doc/CV.pdf)
 
-## Social media
+# Social media
 
 [Github](https://github.com/abauville/)
 
