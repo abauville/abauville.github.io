@@ -2,11 +2,11 @@
 
 To come
 
-# Scientific software development
+# Scientific simulation software
 
 [Sunaba](https://github.com/abauville/Sunaba): 2D simulation of geodynamical thermomechanical processes based on the finite difference method. Written in C, Python and OpenGL.
 
-[geomIO](https://geomio.bitbucket.io/): 3D geometric modeling from serial 2D drawings. Written in MATLAB.
+[geomIO](https://geomio.bitbucket.io/): 3D geometric modeling from serial 2D drawings. Used to initialize numerical simulations. Written in MATLAB.
 
 [CriticalTaper-utils](https://github.com/abauville/CriticalTaper-utils): Python scripts to compute and visualize the solutions of the critical taper theory.
 
